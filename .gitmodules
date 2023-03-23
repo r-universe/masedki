@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MHTrajectoryR"]
+	path = MHTrajectoryR
+	url = https://github.com/cran/MHTrajectoryR
+	shallow = true
+	registered = true
+[submodule "MvBinary"]
+	path = MvBinary
+	url = https://github.com/cran/MvBinary
+	shallow = true
+	registered = true
